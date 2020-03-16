@@ -1,4 +1,5 @@
 # g1on
+
 ![amp_simulator-01-fd-combo.png](figure/amp_simulator-01-fd-combo.png)
 ![amp_simulator-02-deluxe-r.png](figure/amp_simulator-02-deluxe-r.png)
 ![amp_simulator-03-fb-vibro.png](figure/amp_simulator-03-fb-vibro.png)
@@ -75,4 +76,3 @@
 ![reverb_delay-12-air.png](figure/reverb_delay-12-air.png)
 ![reverb_delay-13-mod-reverb.png](figure/reverb_delay-13-mod-reverb.png)
 ![reverb_delay-14-particle-r.png](figure/reverb_delay-14-particle-r.png)
-![s.sh](figure/s.sh)
