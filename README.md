@@ -1,5 +1,7 @@
 # g1on
 
+## AMP Simulator
+
 ![amp_simulator-01-fd-combo.png](effects/amp_simulator-01-fd-combo.png)
 ![amp_simulator-02-deluxe-r.png](effects/amp_simulator-02-deluxe-r.png)
 ![amp_simulator-03-fb-vibro.png](effects/amp_simulator-03-fb-vibro.png)
@@ -22,6 +24,9 @@
 ![amp_simulator-20-dz-drive.png](effects/amp_simulator-20-dz-drive.png)
 ![amp_simulator-21-alien.png](effects/amp_simulator-21-alien.png)
 ![amp_simulator-22-revo-1.png](effects/amp_simulator-22-revo-1.png)
+
+## Dynamic and Filters
+
 ![dynamic_filters-01-comp.png](effects/dynamic_filters-01-comp.png)
 ![dynamic_filters-02-160-comp.png](effects/dynamic_filters-02-160-comp.png)
 ![dynamic_filters-03-slow-attck.png](effects/dynamic_filters-03-slow-attck.png)
@@ -33,6 +38,9 @@
 ![dynamic_filters-09-cry.png](effects/dynamic_filters-09-cry.png)
 ![dynamic_filters-10-m-filter.png](effects/dynamic_filters-10-m-filter.png)
 ![dynamic_filters-11-seq-filter.png](effects/dynamic_filters-11-seq-filter.png)
+
+## Modulation and SFX
+
 ![modulation_sfx-01-tremolo.png](effects/modulation_sfx-01-tremolo.png)
 ![modulation_sfx-02-slicer.png](effects/modulation_sfx-02-slicer.png)
 ![modulation_sfx-03-phaser.png](effects/modulation_sfx-03-phaser.png)
@@ -49,6 +57,9 @@
 ![modulation_sfx-14-hps.png](effects/modulation_sfx-14-hps.png)
 ![modulation_sfx-15-ring-mod.png](effects/modulation_sfx-15-ring-mod.png)
 ![modulation_sfx-16-rt-closet.png](effects/modulation_sfx-16-rt-closet.png)
+
+## Overdrive and Distortion
+
 ![overdrive_distortion-01-booster.png](effects/overdrive_distortion-01-booster.png)
 ![overdrive_distortion-02-overdrive.png](effects/overdrive_distortion-02-overdrive.png)
 ![overdrive_distortion-03-t-srcream.png](effects/overdrive_distortion-03-t-srcream.png)
@@ -61,6 +72,9 @@
 ![overdrive_distortion-10-lead.png](effects/overdrive_distortion-10-lead.png)
 ![overdrive_distortion-11-extreme-ds.png](effects/overdrive_distortion-11-extreme-ds.png)
 ![overdrive_distortion-12-aco-sim.png](effects/overdrive_distortion-12-aco-sim.png)
+
+## Reverb and Delay
+
 ![reverb_delay-01-delay.png](effects/reverb_delay-01-delay.png)
 ![reverb_delay-02-carbon-dly.png](effects/reverb_delay-02-carbon-dly.png)
 ![reverb_delay-03-tape-echo.png](effects/reverb_delay-03-tape-echo.png)
