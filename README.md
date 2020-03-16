@@ -49,7 +49,6 @@
 ![modulation_sfx-14-hps.png](figure/modulation_sfx-14-hps.png)
 ![modulation_sfx-15-ring-mod.png](figure/modulation_sfx-15-ring-mod.png)
 ![modulation_sfx-16-rt-closet.png](figure/modulation_sfx-16-rt-closet.png)
-![out.md](figure/out.md)
 ![overdrive_distortion-01-booster.png](figure/overdrive_distortion-01-booster.png)
 ![overdrive_distortion-02-overdrive.png](figure/overdrive_distortion-02-overdrive.png)
 ![overdrive_distortion-03-t-srcream.png](figure/overdrive_distortion-03-t-srcream.png)
