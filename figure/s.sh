@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "" >out.md
+echo "# g1on" >out.md
 
 for entry in $(ls $search_dir); do
-    echo "![$entry](figures/$entry)" >>out.md
+    echo "![$entry](figure/$entry)" >>out.md
 done
